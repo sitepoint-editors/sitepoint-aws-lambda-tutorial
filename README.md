@@ -5,9 +5,9 @@ This repository hosts a simple project that is packaged for manual upload and di
 ## Requirements
 
 * [AWS account](https://aws.amazon.com/console/)
-* [Node.js](http://nodejs.org/) (min version if applicable)
+* [Node.js](http://nodejs.org/)
 
-## Installation Steps (if applicable)
+## Installation Steps
 
 1. Upload the included .zip to AWS Lambda
 
